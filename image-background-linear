@@ -1,0 +1,4 @@
+.layered-image {
+  background: linear-gradient(to right, transparent, mistyrose),
+    url("critters.png");
+}
